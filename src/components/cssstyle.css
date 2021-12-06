@@ -1,0 +1,35 @@
+.link{
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    text-align: left;
+}
+.link:hover{
+    background-color: gray;
+    color: white;
+}
+.headerNavber{
+    background-color: royalblue;
+    padding: 10px;
+}
+.Employeelist{
+    padding: 10px;
+    
+    box-shadow: 2px 2px 5px gray;
+    border: 5px;
+    border-radius: 10px;
+    height: 100px;
+    padding-right: 10px;
+    margin: 2%;
+    background-color:white;
+    
+    border-radius: 5px;
+    width: 200px;
+    float: left;
+    text-decoration: white;
+    text-align: center;
+}
+.home{
+    padding: 30px;
+}
